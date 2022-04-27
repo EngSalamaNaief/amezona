@@ -1,0 +1,15 @@
+{
+    "menCate":"الرجال",
+    "men":{ 
+        "choose":"أخذية",
+        "tshirt":"تشيرتات",
+        "bantalons":"بناطيل",
+        "shirts":"قمصان"
+     },
+     "womenCate":"حريم",
+     "women":{
+         "makeup":"الجمال",
+         "dresses":"فساتين",
+         "skirts":"جيب"
+     }
+}

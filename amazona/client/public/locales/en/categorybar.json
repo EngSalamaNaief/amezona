@@ -1,0 +1,15 @@
+{
+    "menCate":"Men",
+    "men":{ 
+        "choose":"Choose",
+        "tshirt":"T-shirt",
+        "bantalons":"Bantalons",
+        "shirts":"Shirts"
+     },
+     "womenCate":"Women",
+     "women":{
+         "makeup":"MakeUp",
+         "dresses":"Dresses",
+         "skirts":"Skirts"
+     }
+}
